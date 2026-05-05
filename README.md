@@ -18,7 +18,7 @@ Find me on [![GitHub][2.2]][2].
 
 ## 🔬 What I'm working on
 
-- **ROS 2 / DDS security** — reproducing & extending honeypot and attack-surface research on robot middleware.
+- **Robotics middleware security** — ROS 2 / DDS research.
 - **Cyber Awareness Platform** — anti-scam / anti-fraud tooling and education, with friends.
 
 ## 📈 GitHub Stats
