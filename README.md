@@ -25,4 +25,4 @@ Find me on [![GitHub][2.2]][2].
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon)
 
 <!-- social links -->
-[2]: https://github.com/recomby-ai
+[2]: https://github.com/ViryaZheng
