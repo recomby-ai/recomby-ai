@@ -2,7 +2,9 @@
 
 Currently researching **robotics security on ROS 2**, and building an **Anti-Scam / Anti-Fraud / Cyber Awareness platform** with friends on the side.
 
-Find me on [![GitHub][2.2]][2].
+I also run **[Frontier Knight Labs](https://github.com/frontierknight)** — advancing autonomous agents for cyber offense, defense, and learning.
+
+Find me on [![GitHub][2.2]][2] · [![Frontier Knight Labs](https://img.shields.io/badge/Lab-Frontier_Knight_Labs-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)](https://github.com/frontierknight)
 
 ## 🔧 Technologies & Tools
 
@@ -20,6 +22,7 @@ Find me on [![GitHub][2.2]][2].
 
 - **Robotics middleware security** — ROS 2 / DDS research.
 - **Cyber Awareness Platform** — anti-scam / anti-fraud tooling and education, with friends.
+- **[Frontier Knight Labs](https://github.com/frontierknight)** — autonomous agents for cyber offense, defense, and learning.
 
 <!-- social icons -->
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon)
